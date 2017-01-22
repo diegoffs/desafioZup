@@ -12,7 +12,7 @@ Exemplo: 4 8
 
 Clique em OK.
 
-Ná próxima tela, digite a posição atual (X e Y) e o sentido inicial separados por espaço, respectivamente:
+Ná próxima tela, digite a posição atual (X e Y) e o sentido inicial do Rover separados por espaço, respectivamente:
 
 Exemplo: 1 2 N
 
